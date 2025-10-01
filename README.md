@@ -27,7 +27,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [📂 Projeto Django](https://github.com/Caiquepereira36/ProjetoDjango) – Sistema web com Django.
+- [📂 Projeto Django](https://github.com/Caiquepereira36/Projeto-Django) – Sistema web com Django.
 - [📂 Projeto React](https://github.com/Caiquepereira36/ProjetoReact) – Interface moderna com React.
 - [📂 Projeto SQL](https://github.com/Caiquepereira36/ProjetoSQL) – Banco de dados e consultas SQL.
 
