@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Caique Pereira!
+# 👋 Olá, meu nome é Caique Pereira!
 
 💻 Estudante e entusiasta de tecnologia, em constante aprendizado no mundo da programação.  
 🚀 Atualmente focado em **Python, Django, JavaScript, React, HTML, CSS e SQL**.  
